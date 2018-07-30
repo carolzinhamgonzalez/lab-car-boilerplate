@@ -14,3 +14,15 @@ hr{
 .section-two{
   height: 40vw;
 }
+
+.img-driver{
+  height: 33vw;
+  background-image: url(../assets/images/conduce.jpg);
+  background-size: 100%;
+  background-position-y: 50%;
+}
+
+.conductor{
+  background-color: rgb(51,51,51, 0.5);
+  height: 33vw;
+}
