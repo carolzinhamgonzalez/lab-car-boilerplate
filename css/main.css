@@ -1,1 +1,12 @@
-/* Los estilos de tu proyecto */
+.img-taxi{
+  height: 50vw;
+  background-image: url(../assets/images/taxi.jpg);
+  background-size: 100%;
+  background-position-y: 93%;
+}
+
+hr{
+  height: 1px;
+  width: 10vw;
+  border: none;
+}
