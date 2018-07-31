@@ -7,7 +7,6 @@
 
 hr{
   height: 1px;
-  width: 10vw;
   border: none;
 }
 
@@ -31,6 +30,20 @@ hr{
   height: 40vw;
 }
 
-.box-form{
-  width: 25vw;
+.section-four{
+  height: 30vw;
+}
+
+.p-footer{
+  font-size: 0.8vw;
+}
+
+.link{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.link:hover{
+  color: #C0C0C0;
+  text-decoration: none;
 }
